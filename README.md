@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0941-valid-mountain-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0941-valid-mountain-array) |
+| [1331-rank-transform-of-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1331-rank-transform-of-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
