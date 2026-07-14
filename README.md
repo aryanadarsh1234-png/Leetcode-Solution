@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
