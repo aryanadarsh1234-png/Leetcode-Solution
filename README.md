@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
