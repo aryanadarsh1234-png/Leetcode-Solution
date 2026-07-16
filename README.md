@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0394-decode-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0394-decode-string) |
 | [1768-merge-strings-alternately](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0394-decode-string) |
 | [2390-removing-stars-from-a-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
