@@ -1,7 +1,7 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
 
-
+        List<List<String>> ans = new ArrayList<>();
         HashMap<String,List<String>> map = new HashMap<>();
 
         for(String str : strs){
@@ -13,7 +13,12 @@ class Solution {
             map.putIfAbsent(key , new ArrayList<>());
             map.get(key).add(str);
         }
-        return new ArrayList<>(map.values());
+           
+        for (List<String> group : map.values()) {
+            ans.add(group);
+        }
+
+        return ans;
         
     }
 }
