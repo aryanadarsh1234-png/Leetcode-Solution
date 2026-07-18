@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0049-group-anagrams) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0394-decode-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
