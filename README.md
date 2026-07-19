@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0941-valid-mountain-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0941-valid-mountain-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 ## Trie
 |  |
