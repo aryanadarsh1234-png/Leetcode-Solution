@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
