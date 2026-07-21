@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0605-can-place-flowers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0941-valid-mountain-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0941-valid-mountain-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0062-unique-paths) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
 | ------- |
