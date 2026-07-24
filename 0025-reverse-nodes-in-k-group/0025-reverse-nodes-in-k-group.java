@@ -28,10 +28,10 @@ class Solution {
             ListNode prev = nextGroup;
 
             while(curr!=nextGroup){
-                ListNode temp = curr.next;
+                ListNode next = curr.next;
                 curr.next=prev;
                 prev = curr;
-                curr = temp;
+                curr = next;
             }
             ListNode temp = groupPrev.next;
 
