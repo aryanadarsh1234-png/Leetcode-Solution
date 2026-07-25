@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0055-jump-game) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0112-path-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
