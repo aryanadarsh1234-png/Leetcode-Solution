@@ -6,17 +6,19 @@ class Solution {
         int [] res = new int[n];
         int left = 0;
         int right = n-1;
+        int index = n-1;
 
-        for(int i = n-1 ; i >=0 ; i--){
+        while(left <= right){
 
             if(Math.abs(nums[left]) > Math.abs(nums[right])){
-                res[i] = nums[left]*nums[left];
+                res[index] = nums[left]*nums[left];
                 left++;
             }
             else{
-                res[i] = nums[right]*nums[right];
+                res[index] = nums[right]*nums[right];
                 right--;
             }
+            index--;
 
         }
         return res;
