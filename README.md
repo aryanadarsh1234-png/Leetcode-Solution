@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0605-can-place-flowers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0941-valid-mountain-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0941-valid-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0056-merge-intervals) |
+| [0977-squares-of-a-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
