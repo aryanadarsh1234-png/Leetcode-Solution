@@ -10,7 +10,7 @@ class Solution {
                 p1++;
                 p2++;
             }
-            else if( p2>0 &&typed.charAt(p2)==typed.charAt(p2-1)){
+            else if( p2>0 && typed.charAt(p2)==typed.charAt(p2-1)){
                 p2++;
             }
             else{
