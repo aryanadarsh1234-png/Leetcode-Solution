@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0925-long-pressed-name](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0925-long-pressed-name) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0394-decode-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
