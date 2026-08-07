@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1512-number-of-good-pairs](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2469-convert-the-temperature](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
