@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0605-can-place-flowers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0905-sort-array-by-parity](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
