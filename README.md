@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
