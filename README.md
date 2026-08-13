@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0941-valid-mountain-array) |
+| [0946-validate-stack-sequences](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0946-validate-stack-sequences) |
 | [1929-concatenation-of-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
