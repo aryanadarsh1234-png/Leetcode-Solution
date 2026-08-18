@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0055-jump-game) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0189-rotate-array) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0070-climbing-stairs) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -375,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
