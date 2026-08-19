@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0342-power-of-four) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Matrix
 |  |
 | ------- |
