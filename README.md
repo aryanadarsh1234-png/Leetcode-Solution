@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0342-power-of-four) |
