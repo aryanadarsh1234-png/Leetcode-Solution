@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0605-can-place-flowers) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
