@@ -398,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
