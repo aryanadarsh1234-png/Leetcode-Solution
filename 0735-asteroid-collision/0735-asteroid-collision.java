@@ -4,30 +4,29 @@ class Solution {
         Stack<Integer> st = new Stack<>();
 
         for(int a : asteroids){
-            boolean destroyed = false;
+            boolean isDestroyed= false;
 
-            while(!st.isEmpty() && a <0 && st.peek()>0){
-                if(st.peek()< -a){
+            while(!st.isEmpty() && a <0 && st.peek() > 0){
+
+                if(st.peek() < -a){
                     st.pop();
                     continue;
                 }
-                else if(st.peek()==-a){
+                else if(st.peek() == -a){
                     st.pop();
                 }
-                destroyed = true;
+                isDestroyed = true;
                 break;
             }
-            
-            if(!destroyed){
+            if(!isDestroyed){
                 st.push(a);
             }
-
         }
-        int [] ans = new int [st.size()];
-        for(int i = ans.length-1 ; i >=0  ; i--){
+
+        int[] ans = new int[st.size()];
+        for(int i = ans.length-1 ; i >=0 ; i--){
             ans[i] = st.pop();
         }
         return ans;
-        
     }
 }
