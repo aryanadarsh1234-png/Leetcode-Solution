@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0048-rotate-image) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
