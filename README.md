@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
