@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0394-decode-string) |
+| [0520-detect-capital](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0520-detect-capital) |
 | [0925-long-pressed-name](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0925-long-pressed-name) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
