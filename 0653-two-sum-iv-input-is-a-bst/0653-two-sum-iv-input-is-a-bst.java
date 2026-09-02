@@ -16,40 +16,35 @@
 class Solution {
     public boolean findTarget(TreeNode root, int k) {
 
-        List<Integer> arr = new ArrayList<>();
-
-        inorder(root,arr);
-
-
-        int left = 0;
-        int right = arr.size()-1;
-
-        while(left<right){
-            int sum = arr.get(left) + arr.get(right);
-            if(sum==k){
-                return true;
-            }
-            else if(sum < k){
-                left++;
-            }
-            else{
-                right--;
-            }
-        }
-        return false;
-        
+        return solve(root,root,k);  
     }
-    void inorder(TreeNode root , List<Integer> arr){
+    boolean solve(TreeNode root , TreeNode curr , int k){
 
-        if(root==null) return;
+        if(curr==null) return false;
 
-        if(root.left!=null){
-            inorder(root.left,arr);
-        }
-        arr.add(root.val);
-        if(root.right!=null){
-            inorder(root.right,arr);
-        }
+        int diff = k - curr.val;
+
+        if(search(root,curr,diff)) return true;
+
+        return solve(root , curr.left,k) || solve(root,curr.right,k);
 
     }
+
+    boolean search(TreeNode root, TreeNode curr, int diff){
+        if(root == null) return false;
+
+        if(root.val==diff && curr!=root){
+            return true;
+        }
+        else if(root.val < diff){
+            return search(root.right,curr,diff);
+        }
+        else{
+            return search(root.left,curr,diff);
+        }
+
+    
+    }
+
+
 }
