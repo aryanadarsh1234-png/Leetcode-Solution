@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [3903-smallest-stable-index-i](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Brainteaser
 |  |
 | ------- |
