@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 ## Quicksort
 |  |
 | ------- |
