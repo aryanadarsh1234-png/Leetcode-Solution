@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
 ## Tree
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search
 |  |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0200-number-of-islands) |
 ## Enumeration
 |  |
 | ------- |
