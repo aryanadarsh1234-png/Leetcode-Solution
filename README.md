@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0739-daily-temperatures) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0896-monotonic-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -379,15 +381,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3903-smallest-stable-index-i](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Brainteaser
@@ -405,10 +410,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Union-Find
 |  |
