@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [1572-matrix-diagonal-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
 ## Tree
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 ## Binary Search
 |  |
 | ------- |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 ## Enumeration
 |  |
 | ------- |
