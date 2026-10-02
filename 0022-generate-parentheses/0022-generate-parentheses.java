@@ -1,32 +1,33 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
 
-        List<String> res = new ArrayList<>();
+        List<String> ans = new ArrayList<>();
         StringBuilder curr = new StringBuilder();
-        int open =0;
-        int close =0;
 
-        generateParenthesis(res,curr,open,close,n);
-        return res;
+        int open =0;
+        int close = 0;
+        helper(ans,n,curr,0,0);
+
+
+        return ans;
         
     }
-    void generateParenthesis(List<String> res , StringBuilder curr , int open , int close , int n){
+    public void helper(List<String> ans, int n, StringBuilder curr , int open ,int close){
 
-        if(curr.length()==n*2){
-            res.add(curr.toString());
+        if(curr.length()==2*n){
+            ans.add(curr.toString());
             return;
         }
-        if(open<n){
+        if(open < n){
             curr.append('(');
-            generateParenthesis(res,curr,open+1,close,n);
+            helper(ans,n,curr,open+1,close);
             curr.deleteCharAt(curr.length()-1);
         }
-        if(close<open){
+        if(close < open){
             curr.append(')');
-            generateParenthesis(res,curr,open,close+1,n);
+            helper(ans,n,curr,open,close+1);
             curr.deleteCharAt(curr.length()-1);
-            
         }
-
+        
     }
 }
