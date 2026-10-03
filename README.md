@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0292-nim-game) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0200-number-of-islands) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0682-baseball-game) |
