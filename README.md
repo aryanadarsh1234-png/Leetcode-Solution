@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Matrix
@@ -400,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
