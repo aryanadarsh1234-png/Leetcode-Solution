@@ -12,9 +12,9 @@ class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
 
         ListNode dummy = new ListNode(-1);
-        ListNode groupPrev = dummy;
         dummy.next=head;
-
+        ListNode groupPrev = dummy;
+        
 
         while(true){
 
