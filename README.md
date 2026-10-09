@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -503,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
