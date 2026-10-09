@@ -15,7 +15,7 @@ class Solution {
             }
 
         }
-        return low;
+        return high; // we can even return low
         
     }
 }
