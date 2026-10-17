@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0946-validate-stack-sequences) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0912-sort-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
 |  |
@@ -537,4 +541,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
