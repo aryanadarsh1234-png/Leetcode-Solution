@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0049-group-anagrams) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanadarsh1234-png/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
