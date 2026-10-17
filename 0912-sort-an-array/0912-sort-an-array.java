@@ -1,48 +1,44 @@
 
 class Solution {
     public int[] sortArray(int[] nums) {
-        mergeSort(nums, 0, nums.length - 1);
+        int n = nums.length;
+
+        // Build a max heap
+        for (int i = n / 2 - 1; i >= 0; i--) {
+            heapify(nums, n, i);
+        }
+
+        // Move the largest element to the end
+        for (int i = n - 1; i > 0; i--) {
+            int temp = nums[0];
+            nums[0] = nums[i];
+            nums[i] = temp;
+
+            heapify(nums, i, 0);
+        }
+
         return nums;
     }
 
-    public void mergeSort(int[] nums, int left, int right) {
-        if (left >= right) {
-            return;
+    private void heapify(int[] nums, int n, int i) {
+        int largest = i;
+        int left = 2 * i + 1;
+        int right = 2 * i + 2;
+
+        if (left < n && nums[left] > nums[largest]) {
+            largest = left;
         }
 
-        int mid = left + (right - left) / 2;
-
-        mergeSort(nums, left, mid);
-        mergeSort(nums, mid + 1, right);
-
-        merge(nums, left, mid, right);
-    }
-
-    public void merge(int[] nums, int left, int mid, int right) {
-        int[] temp = new int[right - left + 1];
-
-        int i = left;
-        int j = mid + 1;
-        int k = 0;
-
-        while (i <= mid && j <= right) {
-            if (nums[i] <= nums[j]) {
-                temp[k++] = nums[i++];
-            } else {
-                temp[k++] = nums[j++];
-            }
+        if (right < n && nums[right] > nums[largest]) {
+            largest = right;
         }
 
-        while (i <= mid) {
-            temp[k++] = nums[i++];
-        }
+        if (largest != i) {
+            int temp = nums[i];
+            nums[i] = nums[largest];
+            nums[largest] = temp;
 
-        while (j <= right) {
-            temp[k++] = nums[j++];
-        }
-
-        for (int p = 0; p < temp.length; p++) {
-            nums[left + p] = temp[p];
+            heapify(nums, n, largest);
         }
     }
 }
